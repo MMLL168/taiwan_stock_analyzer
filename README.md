@@ -13,7 +13,7 @@
 ## 🚀 快速開始
 
 ### 直接開啟
-1. 下載 `taiwan_stock_analyzer_pro.html`
+1. 下載 `taiwan_stock_analyzer.html`
 2. 用瀏覽器開啟
 3. 開始使用！
 
